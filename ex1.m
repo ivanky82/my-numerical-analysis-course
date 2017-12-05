@@ -7,10 +7,10 @@
 % 
 %  File ini memanggil file yang lain yang harus anda bereskan 
 % 
-%     fibonacci.m
-%     displayValue.m
+%   fibonacci.m
+%   displayValue.m
 %	  createTable.m
-%     createGraph.m
+%   createGraph.m
 %
 %  For this exercise, you will not need to change any code in this file,
 %  or any other files other than those mentioned above.% 
