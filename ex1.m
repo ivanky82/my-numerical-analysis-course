@@ -74,7 +74,7 @@ pause;
 % fibonacci dan fungsi tersebut bertugas membuat grafik dimana sumbu y-nya adalah
 % ratio antara suku ke n+1 dan suku ke n dan sumbu x-nya adalah n
 
-fprintf('Part 4 : Menampilkan grafik dari suatu Barisan Fibonacci \n\n');
+fprintf('Part 4 : Menampilkan grafik dari ratio suku-suku Barisan Fibonacci \n\n');
 barisan = fibonacci(20);
 createGraph(barisan);
 fprintf('Kode yang anda kerjakan adalah benar jika muncul sebuah grafik \n');
